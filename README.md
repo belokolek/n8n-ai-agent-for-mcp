@@ -73,7 +73,3 @@ Else continue.
 ```
 
 The system prompt and workflows can be varied to meet your use case.
-
-## License
-
-- This project is licensed under the MIT License.
