@@ -74,10 +74,6 @@ Else continue.
 
 The system prompt and workflows can be varied to meet your use case.
 
-## Nostr Links
-
-- Contact me [npub1r0d8u8mnj6769500nypnm28a9hpk9qg8jr0ehe30tygr3wuhcnvs4rfsft](https://njump.me/npub1r0d8u8mnj6769500nypnm28a9hpk9qg8jr0ehe30tygr3wuhcnvs4rfsft),
-
 ## License
 
 - This project is licensed under the MIT License.
